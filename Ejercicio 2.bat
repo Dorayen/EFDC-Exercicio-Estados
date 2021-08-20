@@ -3,3 +3,6 @@ cd "Todos os Estados"
 
 md "Centro-Oeste" "Nordeste" "Norte" "Sul" "Sudeste"
 
+cd "Centro-Oeste"
+md "Distrito Federal" "Goias" "Mato Grosso" "Mato Grosso do Sul"
+cd..
