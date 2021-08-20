@@ -12,3 +12,7 @@ md "Alagoas" "Bahia" "Ceara" "Maranhao" "Paraiba"
 md "Pernambuco" "Piaui" "Rio Grande do Norte" "Sergipe"
 cd ..
 
+cd "Norte"
+md "Acre" "Amapa" "Amazonas" "Para" "Rondonia"
+md "Roraima" "Tocantins"
+cd ..
