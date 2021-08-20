@@ -16,3 +16,7 @@ cd "Norte"
 md "Acre" "Amapa" "Amazonas" "Para" "Rondonia"
 md "Roraima" "Tocantins"
 cd ..
+
+cd "Sul"
+md "Parana" "Santa Catarina" "Rio Grande do Sul"
+cd ..
