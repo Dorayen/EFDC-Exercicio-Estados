@@ -5,4 +5,10 @@ md "Centro-Oeste" "Nordeste" "Norte" "Sul" "Sudeste"
 
 cd "Centro-Oeste"
 md "Distrito Federal" "Goias" "Mato Grosso" "Mato Grosso do Sul"
-cd..
+cd ..
+
+cd "Nordeste"
+md "Alagoas" "Bahia" "Ceara" "Maranhao" "Paraiba"
+md "Pernambuco" "Piaui" "Rio Grande do Norte" "Sergipe"
+cd ..
+
